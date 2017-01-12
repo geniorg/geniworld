@@ -14,4 +14,8 @@ As of today, 2017-01-12, there are over 7000 pages of content of various complex
 The GENI.org Drupal site was begun in 2014, back when we thought that it would be an easy and quick transition to Drupal, and ready for launch in 2015.
 
 It is now 2017, and the process continues as we are currently managing over 2000 pages of the original site in Drupal, with another 3/4 of the original content still to be transferred.
+
+:) :)
 PMD, 2017-01-12
+
+P.S. the news of the day today in 2017 in San Diego, the former San Diego Chargers have decided to move back to Los Angeles after 55 years in San Diego, CA. :( :(
